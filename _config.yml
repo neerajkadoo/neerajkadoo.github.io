@@ -27,7 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I have worked in multiple domains like Enterprise, Spam control, E-commerce, IOT, Retail and many more.
   I have worked in multiple technologies like Java, Selenium, TestNG, Appium, RestAssured, Junit, Jmeter, Jenkins, Kubernetes, AWS etc.
   I have worked in multiple methodologies like Waterfall, Agile, Scrum, Kanban, Lean, DevOps etc.
-  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "neeraj-testing-blog.link" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  neerajkadoo
