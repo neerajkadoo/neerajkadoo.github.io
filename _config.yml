@@ -18,18 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neeraj's Software QA Blog
-email: neerajysi@gmail.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Neeraj kadoo. I have worked as Software QA engineer and now as Senior manager 
-  in multiple organizations. I have more than 24 years of exerience in Software QA in Manual, Automation,
-  Mobile and API testing. I have expensive knowledge of QA processes, tools and technologies.
-  I have worked in multiple domains like Enterprise, Spam control, E-commerce, IOT, Retail and many more.
-  I have worked in multiple technologies like Java, Selenium, TestNG, Appium, RestAssured, Junit, Jmeter, Jenkins, Kubernetes, AWS etc.
-  I have worked in multiple methodologies like Waterfall, Agile, Scrum, Kanban, Lean, DevOps etc.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "neeraj-testing-blog.link" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  neerajkadoo
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: minima
